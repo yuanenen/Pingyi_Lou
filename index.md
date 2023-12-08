@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Assistant Professor in Insurance</h1>
+      <p><b>Assistant Professor in Insurance</b></p>
       <p><b>Pingyi Lou (楼平易）</b></p>
       <p><b>Department of Insurance, School of Economics</b></p>
       <p><b>Fudan University</b></p>
@@ -17,7 +17,13 @@
 
 ---
 
-张三，男，个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介
+<h1>About Me<h1>
+
+I'm an assistant professor in Insurance at School of Economics,  Fudan University of China.
+
+My research focuses on insurance company regulation, and insurance company risk-taking.
+
+Contact: plou002@hotmail.com
 
 ---
 
