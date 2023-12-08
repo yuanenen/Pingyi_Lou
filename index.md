@@ -9,7 +9,7 @@
       <p><a href="https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14218">Fudan Page</a></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">
+      <img src="/1.jpg" width="100%">
     </td>
   </tr>
 </table>
