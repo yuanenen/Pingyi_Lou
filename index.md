@@ -2,12 +2,11 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
+      <h1>Assistant Professor in Insurance</h1>
+      <p><b>Pingyi Lou (楼平易）</b></p>
+      <p><b>Department of Insurance, School of Economics</b></p>
+      <p><b>Fudan University</b></p>
+      <p><a href="https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14218">Fudan Page</a></p>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">
