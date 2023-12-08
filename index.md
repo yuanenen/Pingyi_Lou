@@ -23,7 +23,7 @@ I'm an assistant professor in Insurance at School of Economics,  Fudan Universit
 
 My research focuses on insurance company regulation, and insurance company risk-taking.
 
-Contact: plou002@hotmail.com
+Contact: <a href="mailto:plou002@hotmail.com">plou002@hotmail.com</a>
 
 ---
 
