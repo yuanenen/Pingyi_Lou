@@ -17,7 +17,7 @@
 
 ---
 
-<h1>About Me<h1>
+- about Me
 
 I'm an assistant professor in Insurance at School of Economics,  Fudan University of China.
 
