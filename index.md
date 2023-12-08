@@ -2,6 +2,7 @@
 <table border="0">
   <tr>
     <td width="75%">
+      <p><b>plou002</b></p>
       <p><b>Assistant Professor in Insurance</b></p>
       <p><b>Pingyi Lou (楼平易）</b></p>
       <p><b>Department of Insurance, School of Economics</b></p>
