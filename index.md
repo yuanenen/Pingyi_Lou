@@ -8,8 +8,8 @@
       <p><b>Fudan University</b></p>
       <p><a href="https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14218">Fudan Page</a></p>
     </td>
-    <td width="40%">
-      <img src="/1.jpg" width="100%">
+    <td width="60%">
+      <img src="/1.jpg" width="150%">
     </td>
   </tr>
 </table>
