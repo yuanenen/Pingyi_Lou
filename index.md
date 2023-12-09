@@ -7,6 +7,7 @@
       <p><b>Department of Insurance, School of Economics</b></p>
       <p><b>Fudan University</b></p>
       <p><a href="https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14218">Fudan Page</a></p>
+      <p><a href="https://sites.google.com/view/plou002/home">Google site</a></p>
     </td>
     <td width="60%">
       <img src="/1.jpg" width="150%">
@@ -48,3 +49,5 @@ Chen, Shiyi, Tao Chen, Pingyi Lou, Hong Song, and Chenyu Wu. 2023. Bank Deregula
 Chen, Tao, Shinichi Kamiya, Pingyi Lou, and Andreas Milidonis. Accepted. Analyst Coverage, Executive Compensation and Corporate Risk-Taking: Evidence from Property-Casualty Insurance . Journal of Risk and Insurance. 
 
 封进, 余央央, 楼平易. 2015. 医疗需求与中国医疗费用增长——基于城乡老年医疗支出差异的视角.  中国社会科学
+
+<a href="https://sites.google.com/view/plou002/home">More</a>
