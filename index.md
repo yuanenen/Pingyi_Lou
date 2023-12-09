@@ -1,7 +1,7 @@
 <div>
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="50%">
       <p><b>Assistant Professor in Insurance</b></p>
       <p><b>Pingyi Lou (楼平易）</b></p>
       <p><b>Department of Insurance, School of Economics</b></p>
@@ -9,7 +9,7 @@
       <p><a href="https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14218">Fudan Page</a></p>
       <p><a href="https://sites.google.com/view/plou002/home">Google site</a></p>
     </td>
-    <td width="60%">
+    <td width="50%">
       <img src="/1.jpg" width="150%">
     </td>
   </tr>
