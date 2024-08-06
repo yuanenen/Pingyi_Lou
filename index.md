@@ -33,21 +33,5 @@ Ph.D.  in Finance (Insurance and Risk Management track) , Nanyang Technological 
 
 B.A. in Economics , Fudan University, Shanghai, 2013
 
-### Research
-- Research Interest
-
- Insurance, Risk-taking, Capital regulation
-
-- Published and Accepted Papers
-
-Chen, Tao, Jing Rong Goh, Shinichi Kamiya, and Pingyi Lou. 2019. Marginal cost of risk-based capital and risk-taking. Journal of Banking and Finance 
-
-Chen, Shiyi, Xiaoxiao Ding, Pingyi Lou, and Hong Song. 2022. New Evidence of Moral Hazard: Environmental Liability Insurance and Firms' Environmental Performance. Journal of Risk and Insurance.
-
-Chen, Shiyi, Tao Chen, Pingyi Lou, Hong Song, and Chenyu Wu. 2023. Bank Deregulation and Corporate Environmental Performance. World Development  
-
-Chen, Tao, Shinichi Kamiya, Pingyi Lou, and Andreas Milidonis. Accepted. Analyst Coverage, Executive Compensation and Corporate Risk-Taking: Evidence from Property-Casualty Insurance . Journal of Risk and Insurance. 
-
-封进, 余央央, 楼平易. 2015. 医疗需求与中国医疗费用增长——基于城乡老年医疗支出差异的视角.  中国社会科学
 
 <a href="https://sites.google.com/view/plou002/home">More</a>
